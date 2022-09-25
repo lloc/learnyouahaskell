@@ -1,4 +1,4 @@
-# Lets learn Haskell
+# Let's learn Haskell
 
 This repository is the playground for my first steps with Haskell.
 
