@@ -1,3 +1,5 @@
-This repository is the playground for my dirst steps with Haskell.
+# Let's learn Haskell
 
-Start here if this interests you too: [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) 
+This repository is the playground for my first steps with Haskell.
+
+Start from here if this interests you too: [Learn You a Haskell for Great Good](http://learnyouahaskell.com/) 
